@@ -1,7 +1,7 @@
 {
     "name": "",
     "description": "",
-    "keywords": ["V2Ray"],
+    "keywords": [""],
     "env": {
         "ID": {
             "description": "UUID",
